@@ -134,10 +134,10 @@
 <stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.names_of_user_added_attributes" value=""/>
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.freescale.cdt.debug.cw.eppc.EPPCDebugger"/>
 <stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="FLASH/DemoWL-1.11.15.elf"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="Project1-WindowLifter_version2"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="DemoWL-1.11.15"/>
 <stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value="com.freescale.ppc.debug.toolchain.configuration.2118198687"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Project1-WindowLifter_version2"/>
+<listEntry value="/DemoWL-1.11.15"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="4"/>
