@@ -1,6 +1,6 @@
  
 #include "DRIVERS.h"
-/**/
+/*comentario*/
 
 int antipinch(int);
 T_UBYTE validpress=0;							
